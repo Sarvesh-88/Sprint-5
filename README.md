@@ -9,7 +9,7 @@ A state-driven Kanban-style task management web application built for the Sprint
 
 ## Screenshot
 
-*(https://github.com/Your-Username/Sprint-1/blob/main/Sprint-1-img.png)*
+https://github.com/Sarvesh-88/Sprint-5/blob/main/Sprint-5-img.png
 
 ## Tech Stack
 
