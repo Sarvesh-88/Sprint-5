@@ -5,7 +5,7 @@ A state-driven Kanban-style task management web application built for the Sprint
 ## Important Links
 
 * **Live Website:** https://sprint-5-project.vercel.app/
-* **Demo Video:** [Insert your Google Drive video link here]
+* **Demo Video:** https://drive.google.com/file/d/1NeUoAkhcjHxf-cmcPyerL9IZ9nea52xg/view?usp=drivesdk
 
 ## Screenshot
 
